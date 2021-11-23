@@ -6,7 +6,7 @@ public class Main {
         System.out.println("First main commit");
 
         System.out.println("commit without APP_CLASS");
-
+        System.out.println("QKRQ");
 
     }
 }
