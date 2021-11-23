@@ -6,5 +6,6 @@ public class Application {
         System.out.println("BBB");
 
         System.out.println("completed local git training");
+        System.out.println("Hello!");
     }
 }
